@@ -11,3 +11,6 @@ Content-Type: application/json
     "phone": "098765783",
     "email": "hunga@gmail.com"
 }
+
+### 
+GET http://localhost:8080/users 

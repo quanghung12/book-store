@@ -16,4 +16,9 @@ public class Get {
     public User get(@PathVariable int userId) {
         return userDAO.findById(userId);
     }
+
+    @GetMapping(path = "/{email}")
+    public User getByEmail(@PathVariable String email) {
+        return userDAO.getUserByEmail(email);
+    }
 }
