@@ -1,0 +1,13 @@
+GET HTTP://localhost:8080/users/1
+
+###
+Post http://localhost:8080/users 
+Content-Type: application/json
+
+{
+    "name": "Hai Ly",
+    "age": 20,
+    "address": "Co Loa, Ha Noi",
+    "phone": "098765783",
+    "email": "hunga@gmail.com"
+}
