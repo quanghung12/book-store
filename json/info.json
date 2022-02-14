@@ -7,39 +7,39 @@
       "phone": "031546874",
       "email": "hungqt@gmail.com"
   }, {
-    "id": 1,
-    "name": "roy",
+    "id": 2,
+    "name": "hung",
+    "age": 20,
+    "address": "ha noi",
+    "phone": "0213456321",
+    "email": "hungqt1@gmail.com"
+  }, {
+    "id": 3,
+    "name": "quang",
     "age": 18,
     "address": "ha noi",
-    "phone": "031546874",
-    "email": "hungqt@gmail.com"
+    "phone": "02145521",
+    "email": "hungqt12@gmail.com"
   }, {
-    "id": 1,
-    "name": "roy",
-    "age": 18,
-    "address": "ha noi",
-    "phone": "031546874",
-    "email": "hungqt@gmail.com"
+  "id": 4,
+  "name": "huy",
+  "age": 18,
+  "address": "ha na",
+  "phone": "01245287",
+  "email": "hungq1t@gmail.com"
   }, {
-  "id": 1,
+  "id": 5,
+  "name": "hien",
+  "age": 18,
+  "address": "ha noi",
+  "phone": "002150111",
+  "email": "hungqt23@gmail.com"
+  }, {
+  "id": 6,
   "name": "roy",
   "age": 18,
   "address": "ha noi",
-  "phone": "031546874",
-  "email": "hungqt@gmail.com"
-  }, {
-  "id": 1,
-  "name": "roy",
-  "age": 18,
-  "address": "ha noi",
-  "phone": "031546874",
-  "email": "hungqt@gmail.com"
-  }, {
-  "id": 1,
-  "name": "roy",
-  "age": 18,
-  "address": "ha noi",
-  "phone": "031546874",
-  "email": "hungqt@gmail.com"
+  "phone": "2145214410",
+  "email": "hung12@gmail.com"
   }]
 } 
