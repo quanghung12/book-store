@@ -8,12 +8,14 @@ import { UserRegistrantionComponent } from './user-registrantion/user-registrant
 import { UserSearchDeleteComponent } from './user-search-delete/user-search-delete.component';
 import { HttpClientModule } from '@angular/common/http';
 import { UserRegistrantionService } from './user-registrantion.service';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     UserRegistrantionComponent,
-    UserSearchDeleteComponent
+    UserSearchDeleteComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,

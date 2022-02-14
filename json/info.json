@@ -1,0 +1,45 @@
+{
+  "users": [{
+      "id": 1,
+      "name": "roy",
+      "age": 18,
+      "address": "ha noi",
+      "phone": "031546874",
+      "email": "hungqt@gmail.com"
+  }, {
+    "id": 1,
+    "name": "roy",
+    "age": 18,
+    "address": "ha noi",
+    "phone": "031546874",
+    "email": "hungqt@gmail.com"
+  }, {
+    "id": 1,
+    "name": "roy",
+    "age": 18,
+    "address": "ha noi",
+    "phone": "031546874",
+    "email": "hungqt@gmail.com"
+  }, {
+  "id": 1,
+  "name": "roy",
+  "age": 18,
+  "address": "ha noi",
+  "phone": "031546874",
+  "email": "hungqt@gmail.com"
+  }, {
+  "id": 1,
+  "name": "roy",
+  "age": 18,
+  "address": "ha noi",
+  "phone": "031546874",
+  "email": "hungqt@gmail.com"
+  }, {
+  "id": 1,
+  "name": "roy",
+  "age": 18,
+  "address": "ha noi",
+  "phone": "031546874",
+  "email": "hungqt@gmail.com"
+  }]
+} 
